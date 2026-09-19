@@ -86,7 +86,8 @@ public class Main {
 
 ## Output:
 
-![Uploading image.png…]()
+<img width="376" height="266" alt="image" src="https://github.com/user-attachments/assets/e5518fa2-34f7-4e39-a284-cfab98aecc1c" />
+
 
 
 ## Result:
